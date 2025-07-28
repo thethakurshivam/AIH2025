@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T18:50:18.179830"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions: • Preheat oven to 375°F (190°C). • In a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper until tender. Add spinach and cook until wilted. • In a b...",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions: • Preheat oven to 375°F (190°C). • Season eggplant slices with salt and let sit for 30 minutes, then pat dry. • Dredge eggplant in flour, dip in beaten eggs, and coat with a mixture of b...",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions: • Preheat oven to 375°F (190°C). • In a skillet, cook ground beef, diced onion, and minced garlic until browned. • Stir in marinara sauce and simmer for 10 minutes. • In a bowl, mix rico...",
+      "importance_rank": 3,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions: • Preheat oven to 350°F (175°C). • In a large pot, melt butter over medium heat. • Cook chopped bacon until crispy, then set aside. • In the same pot, cook chicken thighs until browned o...",
+      "importance_rank": 4,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions: • Cook fettuccine according to package instructions. • In a skillet, melt butter over medium heat. • Add minced garlic and sauté until fragrant. • Add chicken breasts and cook until gold...",
+      "importance_rank": 5,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions: • In a large pot, heat olive oil over medium heat. • Cook cubed chicken and sliced sausage until browned, then set aside. • In the same pot, sauté diced onion, minced garlic, and diced b...",
+      "importance_rank": 6,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions: • Heat broth in a pot and keep warm. • In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. • Sauté onion, garlic, and mushrooms until tender. • Add rice and stir...",
+      "importance_rank": 7,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Instructions: • Preheat oven to 375°F (190°C). • Cut a pocket into each chicken breast. • In a bowl, mix spinach, feta, sun-dried tomatoes, and garlic. • Stuff the mixture into the chicken pockets and...",
+      "importance_rank": 8,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Instructions: • Preheat oven to 350°F (175°C). • In a large pot, heat olive oil over medium heat. • Season veal shanks with salt and pepper, then brown on all sides. • Remove veal shanks and set aside...",
+      "importance_rank": 9,
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions: • In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. • In another bowl, combine buttermilk, egg, melted butter, and vanilla extract. • Pour the wet ingredients...",
+      "importance_rank": 10,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Instructions: • Preheat oven to 375°F (190°C). • In a skillet, heat olive oil over medium heat. Sauté onion, garlic, zucchini, and bell pepper until tender. Add spinach and cook until wilted. • In a bowl, mix ricotta cheese, egg, salt, and pepper. • In a baking dish, spread a thin layer of marinara sauce. Layer 3 noodles, half the ricotta mixture, half the vegetables, and 1/3 of the mozzarella. Repeat layers. • Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese. • Cover with foil and bake for 25 minutes. Remove foil and bake for another 20 minutes until bubbly. • Let stand for 10 minutes before serving.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • Preheat oven to 375°F (190°C). • Season eggplant slices with salt and let sit for 30 minutes, then pat dry. • Dredge eggplant in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and grated Parmesan cheese. • Heat olive oil in a skillet over medium heat. • Cook eggplant until golden brown on both sides. • In a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese. • Repeat layers and top with remaining cheese. • Bake for 25-30 minutes until cheese is melted and bubbly. • Serve warm.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • Preheat oven to 375°F (190°C). • In a skillet, cook ground beef, diced onion, and minced garlic until browned. • Stir in marinara sauce and simmer for 10 minutes. • In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano. • Spread a thin layer of meat sauce in a baking dish. • Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 of the shredded mozzarella cheese. • Repeat layers twice more. • Cover with foil and bake for 25 minutes. • Remove foil and bake for an additional 25 minutes until cheese is melted and bubbly. • Let stand for 10 minutes before serving.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Instructions: • Preheat oven to 350°F (175°C). • In a large pot, melt butter over medium heat. • Cook chopped bacon until crispy, then set aside. • In the same pot, cook chicken thighs until browned on all sides, then set aside. • Add diced onion, minced garlic, sliced mushrooms, and carrots, sauté until softened. • Stir in flour and cook for 1 minute. • Add red wine, chicken broth, tomato paste, thyme, bay leaf, salt, and pepper. • Return chicken and bacon to the pot. • Bring to a simmer, then cover and transfer to the oven. • Cook for 1 hour until chicken is tender. • Serve warm.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • Cook fettuccine according to package instructions. • In a skillet, melt butter over medium heat. • Add minced garlic and sauté until fragrant. • Add chicken breasts and cook until golden and cooked through. • Remove chicken from the skillet and set aside. • Pour heavy cream into the skillet and bring to a simmer. • Stir in grated Parmesan cheese until melted and smooth. • Season with salt and pepper. • Slice chicken and return to the skillet. • Toss cooked fettuccine with the sauce and chicken. • Garnish with chopped parsley and serve.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • In a large pot, heat olive oil over medium heat. • Cook cubed chicken and sliced sausage until browned, then set aside. • In the same pot, sauté diced onion, minced garlic, and diced bell pepper until softened. • Stir in diced tomatoes, chicken broth, rice, paprika, thyme, cayenne pepper, salt, and pepper. • Bring to a boil, then reduce heat and simmer for 20 minutes. • Add shrimp and cooked chicken and sausage, simmer for an additional 10 minutes until shrimp is cooked and rice is tender. • Serve warm.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Instructions: • Heat broth in a pot and keep warm. • In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. • Sauté onion, garlic, and mushrooms until tender. • Add rice and stir for 1-2 minutes until lightly toasted. • Pour in white wine and cook until absorbed. • Add warm broth, one ladle at a time, stirring until absorbed before adding more, until rice is creamy and tender (about 20 minutes). • Stir in remaining butter and Parmesan cheese, season with salt and pepper. • Garnish with parsley and serve.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Instructions: • Preheat oven to 375°F (190°C). • Cut a pocket into each chicken breast. • In a bowl, mix spinach, feta, sun-dried tomatoes, and garlic. • Stuff the mixture into the chicken pockets and secure with toothpicks if needed. • Season chicken with salt and pepper. • Heat olive oil in a skillet over medium heat and sear chicken on both sides. • Transfer to a baking dish and bake for 20-25 minutes until cooked through. • Serve warm.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Instructions: • Preheat oven to 350°F (175°C). • In a large pot, heat olive oil over medium heat. • Season veal shanks with salt and pepper, then brown on all sides. • Remove veal shanks and set aside. • In the same pot, sauté diced onion, minced garlic, diced carrot, and diced celery until softened. • Stir in white wine, beef broth, diced tomatoes, thyme, and bay leaf. • Return veal shanks to the pot and bring to a simmer. • Cover and transfer to the oven. • Cook for 2 hours until veal is tender. • Serve warm.",
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Instructions: • In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. • In another bowl, combine buttermilk, egg, melted butter, and vanilla extract. • Pour the wet ingredients into the dry ingredients and stir until just combined. • Heat a non-stick skillet over medium heat and lightly grease it. • Pour 1/4 cup of batter onto the skillet for each pancake. • Cook until bubbles form on the surface, then flip and cook until golden brown. • Serve with syrup and your favorite toppings.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Instructions: • Preheat oven to 375°F (190°C). • Cook ziti according to package instructions, then drain. • In a skillet, cook ground beef or sausage with diced onion and minced garlic until browned. • Stir in marinara sauce, oregano, salt, and pepper, and simmer for 10 minutes. • In a baking dish, layer half the ziti, half the sauce, dollops of ricotta, and half the mozzarella. Repeat layers. • Top with grated Parmesan cheese. • Bake for 25-30 minutes until bubbly and golden. • Serve warm.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Instructions: • Preheat oven to 375°F (190°C). • In a large skillet, melt butter over medium heat. • Cook diced onion and minced garlic until softened. • Add cubed chicken and cook until browned. • Stir in flour and cook for 1 minute. • Gradually add chicken broth and milk, stirring constantly until thickened. • Add frozen peas and carrots, thyme, rosemary, salt, and pepper. • Pour mixture into a baking dish and top with pie crust. • Bake for 25-30 minutes until crust is golden. • Serve warm.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • In a large skillet, heat olive oil over medium heat. • Add chicken thighs and cook until browned on both sides, then set aside. • In the same skillet, sauté diced onion, minced garlic, and sliced bell pepper until softened. • Stir in diced tomatoes, chicken broth, red wine, oregano, basil, and olives. • Return chicken to the skillet and simmer for 30 minutes until chicken is cooked through. • Season with salt and pepper to taste. • Serve warm.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • Heat olive oil and butter in a large skillet over medium heat. • Add minced garlic and sauté until fragrant. • Add shrimp and cook until pink and opaque. • Remove shrimp from the skillet and set aside. • Pour white wine, chicken broth, and lemon juice into the skillet, simmer until reduced by half. • Return shrimp to the skillet and toss to coat in the sauce. • Season with salt and pepper, stir in chopped parsley. • Serve over cooked pasta.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions: • In a bowl, mix yogurt, lemon juice, minced garlic, grated ginger, cumin, coriander, turmeric, paprika, and garam masala. • Marinate chicken cubes in the mixture for at least 1 hour. • In a large skillet, heat vegetable oil over medium heat. • Cook diced onion until translucent. • Add marinated chicken and cook until browned. • Stir in diced tomatoes and simmer for 20 minutes. • Add heavy cream and simmer for an additional 10 minutes. • Season with salt and pepper to taste. • Garnish with chopped cilantro and serve.",
+      "page_number": 9
+    }
+  ]
+}

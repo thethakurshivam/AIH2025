@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T18:50:17.562294"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What’s the best way to create a PDF? You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Diﬀerent types of sources have diﬀerent t...",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Establish long-term signature validation Long-term signature validation allows you to verify the signature's validity long after the document was signed. To achieve this, all the necessary elements fo...",
+      "importance_rank": 2,
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Resources Adobe Approved Trust List (AATL) : The Adobe Approved Trust List is a program that allows millions of users worldwide to create digital signatures that are trusted whenever the signed docume...",
+      "importance_rank": 3,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "E-sign from the global bar. 2. Create your signature and initials if not already done. To do so: 1. To add a signature, select Add signature. In the dialog that appears, type, draw, or add an image of...",
+      "importance_rank": 4,
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Note: The generative AI features in Acrobat and Acrobat Reader support English, French, German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, review Adobe's Generative ...",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "About the Autosave feature The Autosave feature guards against losing your work in case of a power failure by incrementally, and at regular intervals, saving file changes to a specified location. The ...",
+      "importance_rank": 6,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Why use certificate signatures? Many business transactions, including financial, legal, and other regulated transactions, require high assurance when signing documents. When documents are distributed ...",
+      "importance_rank": 7,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Note: Signers are not required to sign up or purchase any Adobe product to sign agreements. They can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader desktop application...",
+      "importance_rank": 8,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "About editing text and images Adobe Acrobat provides powerful tools and capabilities for editing PDF images and text. You might encounter formatting challenges that require manual adjustments. Acrobat...",
+      "importance_rank": 9,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Create the appearance of a certificate-based signature You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For exampl...",
+      "importance_rank": 10,
+      "page_number": 25
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "What’s the best way to create a PDF? You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box. If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft Excel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is already open, you don’t have to open the authoring application to convert a file to PDF. Every PDF balances eﬃciency (small file size) and quality (such as resolution and color). If the balance between the file size and the quality is critical to your task, you must use an appropriate conversion method. For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat applies the most recently used conversion settings without providing access to those settings. If you want more control over the process, you’ll want to use another method.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Establish long-term signature validation Long-term signature validation allows you to verify the signature's validity long after the document was signed. To achieve this, all the necessary elements for signature validation must be embedded in the signed PDF. These elements can be embedded during the document signing process or added afterward. If certain information is not included in the PDF, the signature can only be validated for a limited time because certificates related to the signature eventually expire or are revoked. When a certificate expires, the issuing authority is no longer responsible for providing revocation status, rendering the signature unverifiable. The necessary elements for signature validity include the signing certificate chain, certificate revocation status, and possibly a timestamp. If these elements are embedded during signing, the signature can be validated without requiring external resources. Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF creator must enable usage rights for Acrobat Reader users by going to the hamburger menu (Windows) or the",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Resources Adobe Approved Trust List (AATL) : The Adobe Approved Trust List is a program that allows millions of users worldwide to create digital signatures that are trusted whenever the signed document is opened in Acrobat or Reader software. Check out the current members . Adobe Security and Privacy Portal : A good first stop for all things security and privacy at Adobe. Certified Document Services : Certified Document Services (CDS) was the predecessor to the AATL. Content Security Library : Extensive documentation on Adobe certificate signature administration. Managing Digital IDs : Help pages for digital ID management. A certificate-based signature , like a conventional handwritten signature, identifies the person signing a document. Unlike a handwritten signature, a certificate-based signature is difficult to forge because it contains encrypted information that is unique to the signer. It can be easily verified and informs recipients whether the document was modified after the signer initially signed it. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "E-sign from the global bar. 2. Create your signature and initials if not already done. To do so: 1. To add a signature, select Add signature. In the dialog that appears, type, draw, or add an image of your signature and then select Done. 2. To add your initials, select Add initials. In the dialog that appears, type, draw, or add an image of your initials and then select Done. 3. Select your signature. 4. The form fields are detected automatically. Hover the mouse over a field to display a blue box. Click anywhere in the blue box, the cursor will be placed at the right position automatically. Type your text to fill the field. To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color icon and then select a color. By default, the signature color is black. To retain the default color of the signature, make sure the Keep signatures black option is unchecked. 5. If you've already added your signature or initials, just select it from the Sign options, and then click at the place in the PDF where you want to add your signature. Skip to the next step. If you are signing for the first time, you see the Signature or Initials panel. Below is an example of the Signature panel.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Note: The generative AI features in Acrobat and Acrobat Reader support English, French, German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, review Adobe's Generative AI User Guidelines. To understand Adobe's data handling practices, see Content usage and handling practices. The AI-powered features in Acrobat and Acrobat Reader support multiple document types, including PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and Zoom meeting transcripts. The capabilities improve comprehension and save time across various document types. AI Assistant quickly gets answers to your questions based on your documents in a comprehensive and informative way. It can analyze multiple documents to uncover similarities, differences, and key patterns. With AI Assistant, you can make targeted requests, such as highlighting the differences between PDF contracts. It links to text and data table sources within the document. It also suggests follow-up questions for you based on the primary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more accurate and clear answers to your queries based on more citations. It can extract information accurately from tables and complex documents. Generative summary automatically provides an outline with headings and summaries to highlight key points in the document. The feature generates key insights that help you easily comprehend the PDF content. For a speedier response, it processes PDF content in chunks and simultaneously streams summaries. You can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop on both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "About the Autosave feature The Autosave feature guards against losing your work in case of a power failure by incrementally, and at regular intervals, saving file changes to a specified location. The original file is not modified. Instead, Acrobat creates an autosave file of changes, which includes all the changes you made to the open file since the last automatic save. The amount of new information that the autosave file contains depends on how frequently Acrobat saves the autosave file. If you set the autosave interval to 15 minutes, you could lose the last 14 minutes of your work if a problem occurs. Frequent automatic saving prevents loss of data, and is especially useful if you make extensive changes to a document, such as by adding comments. You can apply autosave changes to the original files when you restart Acrobat. When you close, save manually, or revert to the last-saved version of a file, the autosave file is deleted.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Why use certificate signatures? Many business transactions, including financial, legal, and other regulated transactions, require high assurance when signing documents. When documents are distributed electronically, it's important that recipients can: • Verify document authenticity—confirming the identity of each person who signed the document • Verify document integrity—confirming that the document has not been altered in transit Certificate-based signatures provide both of these security services. Many businesses and governments have chosen to set up a certificate-based digital signature infrastructure within their organization. They use third-party certificate authorities to provide independent identity validation. Examples include: For instance, companies in the European Union who need to comply with advanced or qualified electronic signature requirements in eIDAS e-signature regulation or the ETSI PAdES standard (PDF Advanced Electronic Signatures).",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Note: Signers are not required to sign up or purchase any Adobe product to sign agreements. They can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader desktop application. Send in bulk allows you to upload a form and use that as a template to create and send many (hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is insulated from the others and contains its own audit report. Each recipient is unaware of all other recipients. The sender has access to the agreements through their Home or Documents tab or through the Send in bulk template, which contains an Agreements report that tracks the overall status of the child agreements created from the template. Additionally, the sender can export the field-level data of all completed agreements in a CSV format using the Download Form Field Data action. To access the Send in bulk feature, do one of the following: • In the Acrobat desktop app, go to the",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "About editing text and images Adobe Acrobat provides powerful tools and capabilities for editing PDF images and text. You might encounter formatting challenges that require manual adjustments. Acrobat's image-editing capabilities are limited, and using high-resolution images can lead to performance issues due to larger file sizes. To address this, improve images using other tools before adding them to PDF documents. If the original font isn't available, font substitutions may occur, altering the text's appearance. To maintain consistency across devices, we suggest you use the available fonts or embed them within the PDF. You can also enhance document accessibility using Acrobat's features, such as adding alternative text for images and proper content tagging. Refer to the following topics to learn how to add, resize, move, or replace images and objects in a PDF using Acrobat.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Create the appearance of a certificate-based signature You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph. You can also create different signatures for different purposes. For some, you can provide a greater level of detail. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more. 1. (Optional) If you want to include an image of your handwritten signature in the certificate-based signature, scan your signature, and save it as an image file. Place the image in a document by itself, and convert the document to PDF. 2. Right-click the signature field, and select",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "View signed and certified PDF Portfolios A properly signed or certified PDF Portfolio has one or more signatures that approve or certify the PDF Portfolio. The most significant signature appears in a Signature badge in the toolbar. Details of all signatures appear on the cover sheet. • To view the name of the organization or person that signed the PDF Portfolio, hover the pointer over the Signature Badge. • To view details about the signature that appears on the Signature Badge, click the Signature Badge. The cover sheet and the Signatures pane on the left are open with details. If the PDF Portfolio approval or certification is invalid or has a problem, the Signature Badge shows a warning icon. To view an explanation of the problem, hover the pointer over a Signature Badge with a warning icon. Different warning icons appear for different situations.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Signature field must be placed for each signer (including internal counter-singers). There are two methods to apply fields: 1. Simple Authoring is loaded by default in most instances. Simple authoring: • Is limited to the most common types of fields: • Text input (All Text fields are flagged as Required) • Signature • Signer's name (Printed) • Signer's email • Signature date (Read-Only; Supplied by the system) • Checkbox • Places fields anywhere you click on the document. • Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. 2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner. Advanced authoring: • Allows access to all field types (highlighted in yellow) • Supports form field detection (highlighted in green) • Supports Prefill fields (highlighted in pink) • Supports field assignment (highlighted in purple and pink) • Supports field validation",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Content usage and handling practices This FAQ addresses Adobe’s content usage and handling practices specific to improving generative AI capabilities in Adobe Acrobat and Adobe Acrobat Reader. For purposes of this FAQ, references to “generative AI capabilities” are specific to Acrobat AI Assistant and Generative summary only. To learn more about how Adobe may analyze metadata and information about your prompt (for example, question type) and document (for example, number of pages, document structure, document type, and other document statistics) for product improvement purposes in Document Cloud generally, see our content analysis FAQ. For more information about Adobe’s security, privacy, and AI ethics practices, see the Adobe Document Cloud security page (and other materials in our Trust Center), the Adobe Privacy Policy, and the Adobe AI Ethics page, respectively.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Why validate a digital signature? When you receive a signed document, you may want to validate its signature to verify the signer and the signed content. Depending on how you’ve configured your application, validation may occur automatically. Signature validity is determined by checking the authenticity of the signature’s digital ID certificate status and document integrity. To verify authenticity, the validator checks if the signer's certificate or its parent certificates are trusted. The validity of the signing certificate is also checked based on the user's Acrobat or Acrobat Reader settings. To verify document integrity, the validator checks if the signed content was altered after signing. If changes were made, the verification ensures that the signer allowed the changes.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "page_number": 3
+    }
+  ]
+}
